@@ -14,9 +14,12 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 
 [Normas de clase y funcionamiento del Ciclo de DAW en el PTA](normas_y_funcionamiento_daw.pdf)
 
-[//]: ##Presentacion de 1º DAW
 
-[//]: [Presentacion de 1º DAW](https://rawgit.com/LuisJoseSanchez/presentacion-daw1/master/index.html)
+<!--- 
+##Presentacion de 1º DAW
+
+[Presentacion de 1º DAW](https://rawgit.com/LuisJoseSanchez/presentacion-daw1/master/index.html)
+--->
 
 ## Bibliografía
 
