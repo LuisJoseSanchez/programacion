@@ -38,6 +38,9 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 
 [Linux Practical Manual with Exercises](linux_practical_manual_31_07_2014_en.pdf)
 
+[Advanced Bash-Scripting Guide - Mendel Cooper](abs-guide.pdf)
+
+
 ## Perfiles de GitHub de alumnos
 
 [Perfiles de GitHub de alumnos de DAW de la promoción 2016 - 2018](https://github.com/LuisJoseSanchez/github-alumnos-daw-1618)
