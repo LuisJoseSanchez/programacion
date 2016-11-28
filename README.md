@@ -40,6 +40,8 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 
 [Advanced Bash-Scripting Guide - Mendel Cooper](abs-guide.pdf)
 
+[Programación en Bash](manualbash.pdf)
+
 
 ## Perfiles de GitHub de alumnos
 
