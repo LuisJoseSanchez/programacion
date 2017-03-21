@@ -15,7 +15,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 [Normas de clase y funcionamiento del Ciclo de DAW en el PTA](normas_y_funcionamiento_daw.pdf)
 
 
-##Presentacion de 1º DAW
+## Presentacion de 1º DAW
 
 [Presentacion de 1º DAW](https://rawgit.com/LuisJoseSanchez/presentacion-daw1/master/index.html)
 
@@ -23,7 +23,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 ## Bibliografía
 
 
-<a href="https://leanpub.com/aprendejava"><img src="https://github.com/LuisJoseSanchez/programacion/blob/master/aprendejava200.jpg"</a>
+<a href="https://leanpub.com/aprendejava">![Aprende Java con Ejercicios](laprendejava200.jpg)</a>
 
 [Aprende Java con Ejercicios](https://leanpub.com/aprendejava/)
 
