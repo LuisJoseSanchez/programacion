@@ -23,8 +23,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 ## Bibliografía
 
 
-<a href="https://leanpub.com/aprendejava">![Aprende Java con Ejercicios]
-(https://github.com/LuisJoseSanchez/programacion/blob/master/aprendejava200.jpg)</a>
+<a href="https://leanpub.com/aprendejava"><img src="https://github.com/LuisJoseSanchez/programacion/blob/master/aprendejava200.jpg"</a>
 
 [Aprende Java con Ejercicios](https://leanpub.com/aprendejava/)
 
