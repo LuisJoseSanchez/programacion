@@ -15,11 +15,11 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 * [](#)
 
 
-# Recogida de datos de alumnos
+## Recogida de datos de alumnos
 
 [Formulario de recogida de datos](https://docs.google.com/forms/d/e/1FAIpQLSfeLD14YMtNoc-bJWAdqzW8PB6isP-ZK9GkTDSw0CjLGJ1mwg/viewform) a rellenar por todos los alumnos que cursan la asignatura.
 
-# Listas de correo
+## Listas de correo
 
 Para cada grupo del Ciclo Formativo existe una lista de correo (grupo de Google). Únicamente se admitirán los alumnos que aparezcan en la matrícula oficial y que, además, hayan rellenado el formulario del apartado anterior.
 
@@ -32,7 +32,7 @@ Para cada grupo del Ciclo Formativo existe una lista de correo (grupo de Google)
 
 ## Normas de clase
 
-[Normas de clase y funcionamiento del Ciclo de DAW en el PTA](normas_y_funcionamiento_daw.pdf)
+[Normas de clase y funcionamiento de los Ciclos Formativos en el PTA](normas_y_funcionamiento.pdf)
 
 
 ## Presentacion de 1º DAW
