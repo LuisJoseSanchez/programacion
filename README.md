@@ -1,6 +1,6 @@
-# Programación (1º DAW )
+# Programación de 1º DAW y 1º DAM
 
-Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> curso del Ciclo Formativo de Grado Superior de **DAW** (Desarrollo de Aplicaciones Web) impartido en el centro educativo **IES Campanillas** (Málaga). El profesor de la asignatura es **Luis José Sánchez**.
+Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> curso del Ciclo Formativo de Grado Superior de **DAW** (Desarrollo de Aplicaciones Web) y de DAM (Desarrollo de Aplicaciones Multiplataforma) impartido en las instalaciones del **Parque Tecnológico de Andalucía** del centro educativo **IES Campanillas** (Málaga). El profesor de la asignatura es **Luis José Sánchez**. La profesora de apoyo es **Eva Mª Perales**.
 
 ## Datos de alumnos
 
@@ -8,7 +8,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 
 ## Calendario
 
-[Calendario del curso escolar 2016/2017 para Málaga capital](Malaga1617_calendario.pdf)
+[Calendario del curso escolar 2017/2018 para Málaga capital](Calendarioprovincial1718.pdf)
 
 ## Normas de clase
 
