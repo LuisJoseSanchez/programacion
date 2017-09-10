@@ -8,7 +8,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 * [Listas de correo](#listas-de-correo)
 * [Calendario escolar](#calendario-escolar)
 * [Normas de clase](#normas-de-clase)
-* [](#)
+* [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
 * [](#)
 * [](#)
 * [](#)
@@ -35,9 +35,11 @@ Para cada grupo del Ciclo Formativo existe una lista de correo (grupo de Google)
 [Normas de clase y funcionamiento de los Ciclos Formativos en el PTA](normas_y_funcionamiento.pdf)
 
 
-## Presentacion de 1º DAW
+## Presentacion del IES Campanillas
 
-[Presentacion de 1º DAW](https://rawgit.com/LuisJoseSanchez/presentacion-daw1/master/index.html)
+En la siguiente presentación se muestra la oferta educativa del IES Campanillas, el currículo de los Ciclos Formativos de Grado Superior de **Desarrollo de Aplicaciones Multiplataforma** y **Desarrollo de Aplicaciones Web**, información sobre las **FCT** (prácticas en empresas) y sobre la **Formación Profesional Dual**.
+
+[Presentacion del IES Campanillas]()
 
 
 ## Bibliografía
