@@ -1,10 +1,30 @@
 # Programación de 1º DAW y 1º DAM
 
-Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> curso del Ciclo Formativo de Grado Superior de **DAW** (Desarrollo de Aplicaciones Web) y de DAM (Desarrollo de Aplicaciones Multiplataforma) impartido en las instalaciones del **Parque Tecnológico de Andalucía** del centro educativo **IES Campanillas** (Málaga). El profesor de la asignatura es **Luis José Sánchez**. La profesora de apoyo es **Eva Mª Perales**.
+Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> curso del Ciclo Formativo de Grado Superior de **DAW** (Desarrollo de Aplicaciones Web) y de **DAM** (Desarrollo de Aplicaciones Multiplataforma) impartido en las instalaciones del **Parque Tecnológico de Andalucía** del centro educativo **IES Campanillas** (Málaga). El profesor de la asignatura es **Luis José Sánchez**. La profesora de apoyo es **Eva Mª Perales**.
 
-## Datos de alumnos
+## Índice
+
+* [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
+* [Listas de correo](#listas-de-correo)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+
+
+## Recogida de datos de alumnos
 
 [Formulario de recogida de datos](https://docs.google.com/forms/d/e/1FAIpQLSfeLD14YMtNoc-bJWAdqzW8PB6isP-ZK9GkTDSw0CjLGJ1mwg/viewform) a rellenar por todos los alumnos que cursan la asignatura.
+
+# Listas de correo
+
+Para cada grupo del Ciclo Formativo existe una lista de correo (grupo de Google). Únicamente se admitirán los alumnos que aparezcan en la matrícula oficial y que, además, hayan rellenado el formulario del apartado anterior.
+
+* [IES Campanillas DAW - Promoción 2017/2019](https://groups.google.com/d/forum/ies-campanillas-daw-2017-2019): ies-campanillas-daw-2017-2019@googlegroups.com
+* [IES Campanillas DAM - Promoción 2017/2019](https://groups.google.com/d/forum/ies-campanillas-dam-2017-2019): ies-campanillas-dam-2017-2019@googlegroups.com
 
 ## Calendario
 
