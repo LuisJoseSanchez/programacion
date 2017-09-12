@@ -12,7 +12,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 * [Bibliografía](#bibliografía)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Horarios](#horarios)
-* [](#)
+* [Enlaces](#enlaces)
 
 
 ## Recogida de datos de alumnos
@@ -71,7 +71,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 ## Horarios
 
-1º DAM
+### 1º DAM
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
@@ -82,7 +82,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 | BBDD  | PRO    | BBDD      | LM     | FOL     |
 | BBDD  | PRO    | BBDD      | LM     | FOL     |
 
-1º DAW
+### 1º DAW
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
@@ -105,6 +105,6 @@ LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
 
 ED: Entornos de Desarrollo. Antonio José Sánchez.
 
-## Enlaces de interés
+## Enlaces
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
