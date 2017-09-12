@@ -9,9 +9,9 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 * [Calendario escolar](#calendario-escolar)
 * [Normas de clase](#normas-de-clase)
 * [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
-* [](#)
-* [](#)
-* [](#)
+* [Bibliografía](#bibliografía)
+* [Perfiles de GitHub](#perfiles-de-github)
+* [Horarios](#horarios)
 * [](#)
 
 
@@ -39,7 +39,7 @@ Para cada grupo del Ciclo Formativo existe una lista de correo (grupo de Google)
 
 En la siguiente presentación se muestra la oferta educativa del IES Campanillas, el currículo de los Ciclos Formativos de Grado Superior de **Desarrollo de Aplicaciones Multiplataforma** y **Desarrollo de Aplicaciones Web**, información sobre las **FCT** (prácticas en empresas) y sobre la **Formación Profesional Dual**.
 
-[Presentacion del IES Campanillas]()
+[Presentacion del IES Campanillas](https://rawgit.com/LuisJoseSanchez/presentacion-ies-campanillas/master/index.html)
 
 
 ## Bibliografía
@@ -49,8 +49,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Aprende Java con Ejercicios](https://leanpub.com/aprendejava/)
 
-<a href="https://leanpub.com/gitygithub/">![Git y GitHub - Guía de Supervivencia](https://github.com/LuisJoseSanchez/dwes/blob/master/gitygithub200.jpg
-)</a>
+<a href="https://leanpub.com/gitygithub/">![Git y GitHub - Guía de Supervivencia](https://github.com/LuisJoseSanchez/dwes/blob/master/gitygithub200.jpg)</a>
 
 [Git y GitHub - Guía de Supervivencia](https://leanpub.com/gitygithub/)
 
@@ -64,23 +63,37 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 [Programación en Bash](manualbash.pdf)
 
 
-## Perfiles de GitHub de alumnos
+## Perfiles de GitHub
 
-[Perfiles de GitHub de alumnos de DAW de la promoción 2016 - 2018](https://github.com/LuisJoseSanchez/github-alumnos-daw-1618)
+[Perfiles de GitHub de alumnos de DAW de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-daw-1719)
+[Perfiles de GitHub de alumnos de DAM de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-dam-1719)
+[Perfil del profesor de la asignatura de Programación](https://github.com/LuisJoseSanchez)
 
-## Horario
+## Horarios
+
+1º DAM
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-| SINF  | PRO    | PRO       | BBDD   | LM      |
-| SINF  | PRO    | PRO       | BBDD   | LM      |
-| SINF  | PRO    | LM        | BBDD   | ED      |
-| FOL   | BBDD   | LM        | PRO    | SINF    |
-| FOL   | BBDD   | ED        | PRO    | SINF    |
-| FOL   | BBDD   | ED        | PRO    | SINF    |
+| PRO   | SINF   | PRO       | ED     | SINF    |
+| PRO   | SINF   | PRO       | ED     | SINF    |
+| PRO   | SINF   | PRO       | ED     | SINF    |
+| BBDD  | LM     | BBDD      | LM     | FOL     |
+| BBDD  | PRO    | BBDD      | LM     | FOL     |
+| BBDD  | PRO    | BBDD      | LM     | FOL     |
 
+1º DAW
 
-SINF: Sistemas Informáticos. Juan Carlos Amaya.
+| Lunes | Martes | Miércoles | Jueves | Viernes |
+| :---: | :---:  |   :---:   | :---:  |  :---:  |
+| SINF  | PRO    | SINF      | PRO    | PRO     |
+| SINF  | PRO    | SINF      | PRO    | PRO     |
+| SINF  | PRO    | SINF      | PRO    | ED      |
+| FOL   | BBDD   | ED        | BBDD   | LM      |
+| FOL   | BBDD   | ED        | BBDD   | LM      |
+| FOL   | BBDD   | LM        | BBDD   | LM      |
+
+SINF: Sistemas Informáticos. Juan Carlos Amaya (DAW) y Antonio José Sánchez (DAM).
 
 FOL: Formación y Orientación Laboral. Isabel Gregory.
 
@@ -88,9 +101,9 @@ PRO: Programación. Luis José Sánchez.
 
 BBDD: Bases de Datos. Eva Mª Perales.
 
-LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Eva Mª Perales.
+LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
 
-ED: Entornos de Desarrollo. Eva Mª Perales.
+ED: Entornos de Desarrollo. Antonio José Sánchez.
 
 ## Enlaces de interés
 
