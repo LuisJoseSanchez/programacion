@@ -66,7 +66,9 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 ## Perfiles de GitHub
 
 [Perfiles de GitHub de alumnos de DAW de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-daw-1719)
+
 [Perfiles de GitHub de alumnos de DAM de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-dam-1719)
+
 [Perfil del profesor de la asignatura de Programación](https://github.com/LuisJoseSanchez)
 
 ## Horarios
