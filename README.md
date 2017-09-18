@@ -103,7 +103,7 @@ PRO: Programación. Luis José Sánchez.
 
 BBDD: Bases de Datos. Eva Mª Perales.
 
-LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
+LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González (DAW) y Moisés Martínez (DAM).
 
 ED: Entornos de Desarrollo. Antonio José Sánchez.
 
