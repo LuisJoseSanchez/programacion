@@ -10,7 +10,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 * [Normas de clase](#normas-de-clase)
 * [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
 * [Bibliografía](#bibliografía)
-* [Ejemplos y soluciones a los ejercicios](#ejemplos-y-soluciones)
+* [Ejemplos y soluciones a los ejercicios](#ejemplos-y-soluciones-a-los-ejercicios)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Horarios](#horarios)
 * [Enlaces](#enlaces)
