@@ -1,6 +1,6 @@
 # Programación de 1º DAW y 1º DAM
 
-Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> curso del Ciclo Formativo de Grado Superior de **DAW** (Desarrollo de Aplicaciones Web) y de **DAM** (Desarrollo de Aplicaciones Multiplataforma) impartido en las instalaciones del **Parque Tecnológico de Andalucía** del centro educativo **IES Campanillas** (Málaga). El profesor de la asignatura es **Luis José Sánchez**. La profesora de apoyo es **Eva Mª Perales**.
+Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> curso del Ciclo Formativo de Grado Superior de **DAW** (Desarrollo de Aplicaciones Web) y de **DAM** (Desarrollo de Aplicaciones Multiplataforma) impartido en las instalaciones del **Parque Tecnológico de Andalucía** del centro educativo **IES Campanillas** (Málaga). Los profesores son **Juan Antonio Jiménez** y **Luis José Sánchez**.
 
 ## Índice
 
