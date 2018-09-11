@@ -4,36 +4,12 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 
 ## Índice
 
-* [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
-* [Listas de correo](#listas-de-correo)
-* [Calendario escolar](#calendario-escolar)
-* [Normas de clase](#normas-de-clase)
 * [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
 * [Bibliografía](#bibliografía)
 * [Ejemplos y soluciones a los ejercicios](#ejemplos-y-soluciones-a-los-ejercicios)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Horarios](#horarios)
 * [Enlaces](#enlaces)
-
-
-## Recogida de datos de alumnos
-
-[Formulario de recogida de datos](https://docs.google.com/forms/d/e/1FAIpQLSfeLD14YMtNoc-bJWAdqzW8PB6isP-ZK9GkTDSw0CjLGJ1mwg/viewform) a rellenar por todos los alumnos que cursan la asignatura.
-
-## Listas de correo
-
-Para cada grupo del Ciclo Formativo existe una lista de correo (grupo de Google). Únicamente se admitirán los alumnos que aparezcan en la matrícula oficial y que, además, hayan rellenado el formulario del apartado anterior.
-
-* [IES Campanillas DAW - Promoción 2017/2019](https://groups.google.com/d/forum/ies-campanillas-daw-2017-2019): `ies-campanillas-daw-2017-2019@googlegroups.com`
-* [IES Campanillas DAM - Promoción 2017/2019](https://groups.google.com/d/forum/ies-campanillas-dam-2017-2019): `ies-campanillas-dam-2017-2019@googlegroups.com`
-
-## Calendario escolar
-
-[Calendario del curso escolar 2017/2018 para Málaga capital](CalendarioProvincial1718.pdf)
-
-## Normas de clase
-
-[Normas de clase y funcionamiento de los Ciclos Formativos en el PTA](normas_y_funcionamiento.pdf)
 
 
 ## Presentacion del IES Campanillas
