@@ -8,7 +8,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 * [Bibliografía](#bibliografía)
 * [Ejemplos y soluciones a los ejercicios](#ejemplos-y-soluciones-a-los-ejercicios)
 * [Perfiles de GitHub](#perfiles-de-github)
-* [Horarios](#horarios)
+* [Máquina virtual](#maquina-virtual)
 * [Enlaces](#enlaces)
 
 
@@ -51,41 +51,9 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Perfil del profesor de la asignatura de Programación](https://github.com/LuisJoseSanchez)
 
-## Horarios
+## Máquina Virtual
 
-### 1º DAM
-
-| Lunes | Martes | Miércoles | Jueves | Viernes |
-| :---: | :---:  |   :---:   | :---:  |  :---:  |
-| PRO   | SINF   | PRO       | ED     | SINF    |
-| PRO   | SINF   | PRO       | ED     | SINF    |
-| PRO   | SINF   | PRO       | ED     | SINF    |
-| BBDD  | LM     | BBDD      | LM     | FOL     |
-| BBDD  | PRO    | BBDD      | LM     | FOL     |
-| BBDD  | PRO    | BBDD      | LM     | FOL     |
-
-### 1º DAW
-
-| Lunes | Martes | Miércoles | Jueves | Viernes |
-| :---: | :---:  |   :---:   | :---:  |  :---:  |
-| SINF  | PRO    | SINF      | PRO    | PRO     |
-| SINF  | PRO    | SINF      | PRO    | PRO     |
-| SINF  | PRO    | SINF      | PRO    | ED      |
-| FOL   | BBDD   | ED        | BBDD   | LM      |
-| FOL   | BBDD   | ED        | BBDD   | LM      |
-| FOL   | BBDD   | LM        | BBDD   | LM      |
-
-SINF: Sistemas Informáticos. Juan Carlos Amaya (DAW) y Antonio José Sánchez (DAM).
-
-FOL: Formación y Orientación Laboral. Isabel Gregory.
-
-PRO: Programación. Luis José Sánchez.
-
-BBDD: Bases de Datos. Eva Mª Perales.
-
-LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González (DAW) y Moisés Martínez (DAM).
-
-ED: Entornos de Desarrollo. Antonio José Sánchez.
+[Descarga de **Virtual Box** y de **Virtual Box Extension Pack**](https://www.virtualbox.org/wiki/Downloads)
 
 ## Enlaces
 
