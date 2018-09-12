@@ -59,7 +59,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Descarga de **Virtual Box** y de **Virtual Box Extension Pack**](https://www.virtualbox.org/wiki/Downloads)
 
-[Descarga de la máquina virtual SliTaz GNU/Linux con JDK y Geany](http://www.slitaz.org/es/)
+[Descarga de la máquina virtual SliTaz GNU/Linux con JDK y Geany](https://mega.nz/#!XwoAFDZL!JKTLGuwL2p75SCtW-KtWsLnW8q34-QdS0LhvAahWHQY)
 
 
 ## Enlaces
