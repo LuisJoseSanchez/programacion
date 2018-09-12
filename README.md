@@ -65,3 +65,5 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 ## Enlaces
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
+[Plataforma educativa](http://iescampanillas.com/moodle/)
+
