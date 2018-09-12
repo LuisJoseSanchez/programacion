@@ -8,7 +8,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 * [Bibliografía](#bibliografía)
 * [Ejemplos y soluciones a los ejercicios](#ejemplos-y-soluciones-a-los-ejercicios)
 * [Perfiles de GitHub](#perfiles-de-github)
-* [Máquina virtual](#maquina-virtual)
+* [Máquina virtual](#máquina-virtual)
 * [Enlaces](#enlaces)
 
 
