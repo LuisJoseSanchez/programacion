@@ -51,7 +51,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Perfil del grupo IES Campanillas](https://github.com/IESCampanillas)
 
-[Perfil de Juan Antonio Jiménez]()
+[Perfil de Juan Antonio Jiménez](https://github.com/profesorjim)
 
 [Perfil de Luis José Sánchez](https://github.com/LuisJoseSanchez)
 
