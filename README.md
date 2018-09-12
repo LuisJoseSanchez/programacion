@@ -65,5 +65,6 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 ## Enlaces
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
-[Plataforma educativa](http://iescampanillas.com/moodle/)
+
+[Índice de contenidos para los CFGS del IES Campanillas](https://github.com/IESCampanillas/indice-dam-y-daw)
 
