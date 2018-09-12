@@ -49,11 +49,18 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Perfiles de GitHub de alumnos de DAM de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-dam-1719)
 
-[Perfil del profesor de la asignatura de Programación](https://github.com/LuisJoseSanchez)
+[Perfil del grupo IES Campanillas](https://github.com/IESCampanillas)
+
+[Perfil de Juan Antonio Jiménez]()
+
+[Perfil de Luis José Sánchez](https://github.com/LuisJoseSanchez)
 
 ## Máquina Virtual
 
 [Descarga de **Virtual Box** y de **Virtual Box Extension Pack**](https://www.virtualbox.org/wiki/Downloads)
+
+[Descarga de la máquina virtual SliTaz GNU/Linux con JDK y Geany](http://www.slitaz.org/es/)
+
 
 ## Enlaces
 
