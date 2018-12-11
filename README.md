@@ -83,3 +83,5 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Índice de contenidos para los CFGS del IES Campanillas](https://github.com/IESCampanillas/indice-dam-y-daw)
 
+
+:star: Si te ha gustado este repo, dale una estrellita :wink:
