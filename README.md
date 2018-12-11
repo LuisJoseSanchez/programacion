@@ -43,6 +43,10 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 <https://github.com/LuisJoseSanchez/aprende-java-con-ejercicios>
 
+## Actividad "Aprende un lenguaje en un día"
+
+<https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia>
+
 ## Perfiles de GitHub
 
 [Perfiles de GitHub de alumnos de DAW de la promoción 2018 - 2020](https://github.com/IESCampanillas/github-alumnos-daw-1820)
