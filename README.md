@@ -67,19 +67,19 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 * [Eva María Perales](https://github.com/evaperales)
 
-## Máquina Virtual
+## Máquinas Virtuales
 
 [Descarga de **Virtual Box** y de **Virtual Box Extension Pack**](https://www.virtualbox.org/wiki/Downloads)
 
 [Descarga de la máquina virtual SliTaz GNU/Linux con JDK y Geany](https://mega.nz/#!P0ZTiQJR!Mky8ycItqfGiFy7v95V_XjVLza-VD2Hi6ltzipWQGnA) -  Actualizado 27/10/2018
 
-[Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany y NetBeans](https://mega.nz/#!rxYAjSLT!CjwP48iM_6QYXGO1iFq1QEflFhySefSPJZKsbM_xSfw) -  Actualizado 15/11/2018
+[Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany y NetBeans](https://drive.google.com/file/d/1Hyx2367Ti5x4AhXCuwZtsxJUUEwLLsZd/view?usp=sharing) -  Actualizado 15/11/2018
 
-[Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany y NetBeans - Soporte para JSP con MySQL+phpmyadmin](https://mega.nz/#!e9xTmaqD!Bk2hkrlsZeT1SOdfiuVD70CSdm7eCe36Ij2F6JEdri4) -  Actualizado 15/02/2019
+[Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany y NetBeans - Soporte para JSP con MySQL+phpmyadmin](https://drive.google.com/file/d/18Aj4cNe0TqUvK-40BTAiIqh0Ua6_WlEV/view?usp=sharing) -  Actualizado 15/02/2019
 
-[Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany y Eclipse](https://mega.nz/#!fkYmGCrC!BUjiGWxUVK3LyfaRALhzIbkpPEkFQPykn0C3eiw23XA) -  Actualizado 15/11/2018
+[Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany y Eclipse](https://drive.google.com/file/d/1HrQ-RDJn75dLwaPIhfKoVs8HoMWK5a14/view?usp=sharing) -  Actualizado 15/11/2018
 
-[Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany e IntelliJ](https://mega.nz/#!PghgiaYT!-izyDnKA9WpBxZ2vbF1l-xV8bTvokg-QmkZtVAiWMts) -  Actualizado 14/11/2019
+[Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany e IntelliJ](https://drive.google.com/file/d/1gyHm8TNayiO1xWM0fyrx_VH1n4YaVCC_/view?usp=sharing) -  Actualizado 14/11/2019
 
 ## Enlaces
 
