@@ -83,6 +83,9 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany e IntelliJ](https://drive.google.com/file/d/1gyHm8TNayiO1xWM0fyrx_VH1n4YaVCC_/view?usp=sharing) -  Actualizado 14/11/2019
 
+[Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany y NetBeans - Soporte para JSP con MariaDB+phpmyadmin](https://drive.google.com/file/d/1jVuPjAl_JzEy1z2NhQ2cMDuDocbenMco/view?usp=sharing) -  Actualizado 17/05/2020
+
+
 ## Enlaces
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
