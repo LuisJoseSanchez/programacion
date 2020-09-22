@@ -73,6 +73,8 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [Descarga de la máquina virtual SliTaz GNU/Linux con JDK y Geany](https://drive.google.com/file/d/121XIj5k1UHqBkSlHsVgp4Tu1gs118W2N/view?usp=sharing) -  Actualizado 27/10/2018
 
+[Descarga de la máquina virtual SliTaz GNU/Linux con JDK y Geany + Firefox](https://drive.google.com/file/d/1WKhEUU_2vZVtaoO6_h5xFGJRg5nEj2Uf/view?usp=sharing) -  Actualizado 22/09/2020
+
 [Descarga de la máquina virtual SliTaz GNU/Linux con JDK y Geany, con soporte para gráficos OpenGL y sonido Intel](https://drive.google.com/file/d/1CuwzHvOz0XFY6N21ydJ9PQjYBnUy0e6t/view?usp=sharing) -  Actualizado 19/12/2019
 
 [Descarga de la máquina virtual SliTaz GNU/Linux con JDK, Geany y NetBeans](https://drive.google.com/file/d/1Hyx2367Ti5x4AhXCuwZtsxJUUEwLLsZd/view?usp=sharing) -  Actualizado 15/11/2018
