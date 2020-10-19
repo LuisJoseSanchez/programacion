@@ -7,8 +7,7 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 * [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
 * [Bibliografía](#bibliografía)
 * [Ejemplos y soluciones a los ejercicios](#ejemplos-y-soluciones-a-los-ejercicios)
-* [Perfiles de GitHub](#perfiles-de-github)
-* [Máquina virtual](#máquina-virtual)
+* [Máquinas virtuales](#máquinas-virtuales)
 * [Enlaces](#enlaces)
 
 
@@ -46,26 +45,6 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 ## Actividad "Aprende un lenguaje en un día"
 
 <https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia>
-
-## Perfiles de GitHub
-
-[Perfil del grupo IES Campanillas](https://github.com/IESCampanillas)
-
-[Perfiles de GitHub de alumnos de DAW de la promoción 2018 - 2020](https://github.com/IESCampanillas/github-alumnos-daw-1820)
-
-[Perfiles de GitHub de alumnos de DAM de la promoción 2018 - 2020](https://github.com/IESCampanillas/github-alumnos-dam-1820)
-
-[Perfiles de GitHub de alumnos de DAW de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-daw-1719)
-
-[Perfiles de GitHub de alumnos de DAM de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-dam-1719)
-
-### Perfiles de profesores
-
-* [Juan Antonio Jiménez](https://github.com/profesorjim)
-
-* [Luis José Sánchez](https://github.com/LuisJoseSanchez)
-
-* [Eva María Perales](https://github.com/evaperales)
 
 ## Máquinas Virtuales
 
