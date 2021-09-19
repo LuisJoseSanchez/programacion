@@ -4,22 +4,12 @@ Este documento es la guía de la asignatura **Programación** de 1<sup>er</sup> 
 
 ## Índice
 
-* [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
 * [Bibliografía](#bibliografía)
 * [Ejemplos y soluciones a los ejercicios](#ejemplos-y-soluciones-a-los-ejercicios)
 * [Máquinas virtuales](#máquinas-virtuales)
 * [Enlaces](#enlaces)
 
-
-## Presentacion del IES Campanillas
-
-En la siguiente presentación se muestra la oferta educativa del IES Campanillas, el currículo de los Ciclos Formativos de Grado Superior de **Desarrollo de Aplicaciones Multiplataforma** y **Desarrollo de Aplicaciones Web**, información sobre las **FCT** (prácticas en empresas) y sobre la **Formación Profesional Dual**.
-
-[Presentacion del IES Campanillas](https://rawgit.com/LuisJoseSanchez/presentacion-ies-campanillas/master/index.html)
-
-
 ## Bibliografía
-
 
 <a href="https://leanpub.com/aprendejava">![Aprende Java con Ejercicios](aprendejava200.jpg)</a>
 
